@@ -1,0 +1,30 @@
+1.how to run git in git base
+git
+2.how to initialize folder in git repositery
+git init
+3.how to add user name and email in git
+
+4.how to add in staging area of woking files
+git add --a or git add .
+5.how to add staging file into commit
+git commit -m "hare you can pass comment whatever you modify"
+6.how to see status of git repositry file
+git status
+7.how to see all commit 
+git log
+8.how can modified files into commit area
+git commit -a -m "commit all files"
+9.how can creat new file
+touch filename.extention
+10.how can ingnor untracked files and folder
+ans:- cread a new seperate file which have .gitignore name
+and add these commands you have ro write inside this file.
+.extension :- this command hide all files which you passed extention
+*.extension: -
+foldername/  
+/foldername/
+
+11.how to rename of file
+git mv file name write new fle name.
+12.how to delete files.
+git rm file name

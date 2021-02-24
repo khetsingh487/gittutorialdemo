@@ -1,0 +1,7 @@
+
+*.log
+
+/dir/
+static/dir
+
+gittext_mv.txt
